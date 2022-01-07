@@ -22,6 +22,10 @@
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<properties>
+                <sonar.organization>mss-ec-apps-novbatchjan</sonar.organization>
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+      </properties>
 	</properties>
 
 	<dependencies>
